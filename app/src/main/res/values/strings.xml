@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paper4Good</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="title_activity_log_in">LogIn</string>
+    <string name="title_activity_charities">CharitiesActivity</string>
+    <string name="title_activity_add_charity">AddCharity</string>
+</resources>

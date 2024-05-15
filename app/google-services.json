@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078335718591",
+    "project_id": "paper4good-babda",
+    "storage_bucket": "paper4good-babda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078335718591:android:bc07398c6c73d1c6b2320a",
+        "android_client_info": {
+          "package_name": "com.example.paper4good"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBTfKbwa7AF-1WYVToBDt26rfi5f45iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
